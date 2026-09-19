@@ -6,8 +6,9 @@ Copy one file into your repository. Your agent stops saying "done" and starts sa
 what it ran, when, and what came back.
 
 The method, the reasoning behind it, and the server it was tested on:
-**[edgebuildlabs.tech](https://edgebuildlabs.tech/)** (also in
-[Português](https://edgebuildlabs.tech/pt/) and [Español](https://edgebuildlabs.tech/es/)).
+**[edgebuildlabs.github.io](https://edgebuildlabs.github.io/)** (also in
+[Português](https://edgebuildlabs.github.io/pt/) and [Español](https://edgebuildlabs.github.io/es/)).
+The brand site, for hiring: [edgebuildlabs.tech](https://edgebuildlabs.tech/) (PT, EN).
 
 ---
 
