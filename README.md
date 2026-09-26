@@ -145,6 +145,18 @@ was left.
 
 That is what these files automate.
 
+## Companion pieces
+
+This says how the agent **proves**. Its companions say how you **ask**, how you **talk** to an agent
+that runs elsewhere, and who may say **yes**:
+
+* [work-order-contract](https://github.com/edgebuildlabs/work-order-contract) — the request, written
+  so that proof is possible.
+* [channel-contract](https://github.com/edgebuildlabs/channel-contract) — a versioned repository as the
+  channel to an agent on another machine.
+* [mandate-contract](https://github.com/edgebuildlabs/mandate-contract) — whose word an action needs, how
+  that word travels, and what may run with no word at all.
+
 ## License
 
 CC0 1.0 — public domain. Copy it, change it, ship it, don't credit anyone. If it
