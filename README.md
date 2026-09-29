@@ -148,7 +148,8 @@ That is what these files automate.
 ## Companion pieces
 
 This says how the agent **proves**. Its companions say how you **ask**, how you **talk** to an agent
-that runs elsewhere, and who may say **yes**:
+that runs elsewhere, who may say **yes**, and how the record **keeps its meaning** across writers that do not
+remember it:
 
 * [work-order-contract](https://github.com/edgebuildlabs/work-order-contract) — the request, written
   so that proof is possible.
@@ -156,6 +157,8 @@ that runs elsewhere, and who may say **yes**:
   channel to an agent on another machine.
 * [mandate-contract](https://github.com/edgebuildlabs/mandate-contract) — whose word an action needs, how
   that word travels, and what may run with no word at all.
+* [continuity-contract](https://github.com/edgebuildlabs/continuity-contract) — how the record **keeps its meaning**
+  across writers that do not remember it.
 
 ## License
 
